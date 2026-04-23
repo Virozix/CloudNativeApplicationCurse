@@ -1,0 +1,11 @@
+﻿{
+  "agentId": 2,
+  "agentName": "V_K",
+  "poolId": 1,
+  "poolName": "Default",
+  "serverUrl": "https://pipelinesghubeus24.actions.githubusercontent.com/jvaykIODnddkvpQzT2TuoRsIoVJ16lqsDNB6STGPCzndOJcdXP/",
+  "gitHubUrl": "https://github.com/Virozix/CloudNativeApplicationCurse",
+  "workFolder": "_work",
+  "useV2Flow": true,
+  "serverUrlV2": "https://broker.actions.githubusercontent.com/"
+}
